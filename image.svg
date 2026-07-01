@@ -1,0 +1,11 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="40" fill="#fff7f8"/>
+  <circle cx="400" cy="300" r="180" fill="#f3d6de"/>
+  <path d="M240 640 C280 500, 520 500, 560 640" fill="#c97a8f"/>
+  <circle cx="320" cy="300" r="22" fill="#8f4f5b"/>
+  <circle cx="480" cy="300" r="22" fill="#8f4f5b"/>
+  <path d="M320 380 C350 420, 450 420, 480 380" stroke="#8f4f5b" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <rect x="220" y="120" width="360" height="60" rx="30" fill="#fff" opacity="0.8"/>
+  <text x="400" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#8f4f5b">Jhulia</text>
+  <circle cx="400" cy="400" r="290" fill="none" stroke="#ead6db" stroke-width="3"/>
+</svg>
